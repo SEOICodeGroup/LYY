@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1487485985 source:f:\prog\virtualjudge\poj\1077\eight\main.cpp
+	<cstdio>
+	<cstring>
+	<queue>
+	<iostream>
+	<vector>
+

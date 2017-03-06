@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\prog\virtualjudge\uva\11992\debug\debug\main.cpp(110): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  debug.vcxproj -> F:\PROG\VIRTUALJUDGE\UVA\11992\debug\x64\Debug\UVA 11992.exe
+  debug.vcxproj -> F:\PROG\VIRTUALJUDGE\UVA\11992\debug\x64\Debug\UVA 11992.pdb (Partial PDB)

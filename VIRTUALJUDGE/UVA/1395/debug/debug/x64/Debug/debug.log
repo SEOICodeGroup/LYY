@@ -1,0 +1,14 @@
+﻿  main.cpp
+f:\prog\virtualjudge\uva\1395\debug\debug\main.cpp(23): error C2064: 项不会计算为接受 3 个参数的函数
+f:\prog\virtualjudge\uva\1395\debug\debug\main.cpp(22): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+f:\prog\virtualjudge\uva\1395\debug\debug\main.cpp(28): error C2065: “e”: 未声明的标识符
+f:\prog\virtualjudge\uva\1395\debug\debug\main.cpp(29): error C2065: “e”: 未声明的标识符
+f:\prog\virtualjudge\uva\1395\debug\debug\main.cpp(29): error C2228: “.v”的左边必须有类/结构/联合
+  f:\prog\virtualjudge\uva\1395\debug\debug\main.cpp(29): note: 类型是“unknown-type”
+f:\prog\virtualjudge\uva\1395\debug\debug\main.cpp(29): error C2228: “.u”的左边必须有类/结构/联合
+  f:\prog\virtualjudge\uva\1395\debug\debug\main.cpp(29): note: 类型是“unknown-type”
+f:\prog\virtualjudge\uva\1395\debug\debug\main.cpp(53): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+f:\prog\virtualjudge\uva\1395\debug\debug\main.cpp(53): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“int”
+f:\prog\virtualjudge\uva\1395\debug\debug\main.cpp(53): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明

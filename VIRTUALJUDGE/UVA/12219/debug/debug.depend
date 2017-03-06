@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487759290 source:f:\prog\virtualjudge\uva\12219\debug\main.cpp
+	<map>
+	<iostream>
+	<cstring>
+

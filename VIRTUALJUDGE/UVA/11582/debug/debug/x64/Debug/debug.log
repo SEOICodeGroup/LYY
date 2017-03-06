@@ -1,0 +1,7 @@
+﻿  main.cpp
+f:\prog\virtualjudge\uva\11582\debug\debug\main.cpp(63): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  f:\prog\virtualjudge\uva\11582\debug\debug\main.cpp(63): note: 请考虑在格式字符串中使用“%lld”
+  f:\prog\virtualjudge\uva\11582\debug\debug\main.cpp(63): note: 请考虑在格式字符串中使用“%Id”
+  f:\prog\virtualjudge\uva\11582\debug\debug\main.cpp(63): note: 请考虑在格式字符串中使用“%I64d”
+  debug.vcxproj -> F:\PROG\VIRTUALJUDGE\UVA\11582\debug\x64\Debug\debug.exe
+  debug.vcxproj -> F:\PROG\VIRTUALJUDGE\UVA\11582\debug\x64\Debug\debug.pdb (Partial PDB)

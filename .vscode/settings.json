@@ -1,0 +1,10 @@
+{
+    "background.enabled": false,
+    "background.useDefault": true,
+    "background.customImages": [
+        "file:///F:/PROG/images/new2.jpg",
+    ],
+    "files.associations": {
+        "xutility": "cpp"
+    }
+}
