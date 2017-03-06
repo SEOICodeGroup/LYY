@@ -1,5 +1,0 @@
-bool QueueEmpty()const
-{
-  return front==rear;
-}
-

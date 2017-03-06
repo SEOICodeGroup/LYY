@@ -1,5 +1,0 @@
-void InitBSTree(BSTree &T)
-{ 
-  T=NULL;
-}
-

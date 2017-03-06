@@ -1,6 +1,0 @@
-void NextPos(PosType &b, int di)
-{ 
-  b.x+=direc[di].x;
-  b.y+=direc[di].y;
-}
-

@@ -1,5 +1,0 @@
-bool ListEmpty()const
-{
-  return Head->next==Head;
-}
-

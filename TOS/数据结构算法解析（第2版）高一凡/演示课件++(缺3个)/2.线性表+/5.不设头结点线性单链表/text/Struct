@@ -1,7 +1,0 @@
-struct LNode
-{
-  ElemType data;
-  LNode *next;
-};
-typedef LNode *Linklist;
-

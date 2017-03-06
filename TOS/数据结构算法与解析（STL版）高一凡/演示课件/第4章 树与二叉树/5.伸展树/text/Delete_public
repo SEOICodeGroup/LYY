@@ -1,5 +1,0 @@
-bool Delete(KeyType key)
-{
-  return DeleteBST(root, key);
-}
-

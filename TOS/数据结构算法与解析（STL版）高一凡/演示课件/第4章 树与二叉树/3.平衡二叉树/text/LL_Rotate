@@ -1,8 +1,0 @@
-void LL_Rotate(AVLTNode<T>* &p)
-{
-  AVLTNode<T> *lc=p->lchild;
-  p->lchild=lc->rchild;
-  lc->rchild=p;
-  p=lc;
-}
-

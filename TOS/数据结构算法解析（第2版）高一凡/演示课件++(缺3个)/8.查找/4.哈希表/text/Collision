@@ -1,4 +1,0 @@
-void collision(KeyType K, int &p, int i)
-{ 
-  p=(Hash(K)+d(i))%m; 
-}

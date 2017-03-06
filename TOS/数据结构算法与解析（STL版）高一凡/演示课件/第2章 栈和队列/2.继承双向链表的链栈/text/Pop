@@ -1,4 +1,0 @@
-bool Pop(T &e)const
-{
-  return ListDelete(1, e);
-}

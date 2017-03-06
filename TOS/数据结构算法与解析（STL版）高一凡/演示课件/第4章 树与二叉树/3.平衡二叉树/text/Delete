@@ -1,7 +1,0 @@
-bool Delete(T &e)
-{
- 
-  bool lower;
-  return DeleteAVL(root, e, lower);
-}
-

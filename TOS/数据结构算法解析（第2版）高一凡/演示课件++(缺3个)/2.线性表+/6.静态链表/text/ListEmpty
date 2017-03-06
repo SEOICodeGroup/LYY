@@ -1,8 +1,0 @@
-Status ListEmpty(SLinkList L)
-{ 
-  if(L[MAX_SIZE-1].cur==0) 
-    return TRUE;
-  else
-    return FALSE;
-}
-

@@ -1,5 +1,0 @@
-unsigned Hash(KeyType K)
-{ 
-  return K%m;
-}
-

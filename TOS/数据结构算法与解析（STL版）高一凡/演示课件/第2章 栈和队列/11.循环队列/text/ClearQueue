@@ -1,4 +1,0 @@
-void ClearQueue()
-{
-  front=rear=0;
-}

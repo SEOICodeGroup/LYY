@@ -1,8 +1,0 @@
-SqQueue(int k=1)
-{
-  base=new T[k];
-  assert(base!=NULL);
-  rear=0;
-  queuesize=k;
-}
-

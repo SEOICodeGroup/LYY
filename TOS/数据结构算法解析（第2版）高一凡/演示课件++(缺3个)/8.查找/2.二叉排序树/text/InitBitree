@@ -1,5 +1,0 @@
-void InitBiTree(BiTree &T)
-{ 
-  T=NULL;
-}
-

@@ -1,8 +1,0 @@
-bool EnQueue(T e)
-{
-  if(rear==queuesize)
-    return false;
-  *(base+rear++)=e;
-  return true;
-}
-

@@ -1,6 +1,0 @@
-DLTree()
-{
-  dst=new DLTNode;
-  MinEmpt=0;
-}
-

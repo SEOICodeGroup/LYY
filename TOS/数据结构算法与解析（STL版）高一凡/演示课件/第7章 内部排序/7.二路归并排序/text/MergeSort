@@ -1,7 +1,0 @@
-void MergeSort()
-{
-  temp.resize(elem.size());
-  MSort(0, elem.size()-1);
-  
-}
-

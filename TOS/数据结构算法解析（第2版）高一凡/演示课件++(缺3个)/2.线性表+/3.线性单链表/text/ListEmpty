@@ -1,7 +1,0 @@
-Status ListEmpty(LinkList L)
-{ 
-  if(L->next) 
-    return FALSE;
-  else
-    return TRUE;
-}

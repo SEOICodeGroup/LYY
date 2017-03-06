@@ -1,8 +1,0 @@
-bool Pop(T &e)
-{
-  if(top==base)
-    return false;
-  e=*--top;
-  return true;
-}
-

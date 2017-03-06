@@ -1,5 +1,0 @@
-void MarkPrint(PosType b)
-{ 
-  m[b.x][b.y]=-1;
-}
-

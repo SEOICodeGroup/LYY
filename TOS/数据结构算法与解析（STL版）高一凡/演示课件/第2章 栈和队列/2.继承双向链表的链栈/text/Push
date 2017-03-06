@@ -1,5 +1,0 @@
-bool Push(T e)
-{
-  return ListInsert(1, e);
-}
-

@@ -1,4 +1,0 @@
-bool StackEmpty()const
-{
-  return ListEmpty();
-}

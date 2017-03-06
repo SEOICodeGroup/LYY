@@ -1,5 +1,0 @@
-bool ListEmpty()const
-{
-  return SL[0].link==0;
-}
-

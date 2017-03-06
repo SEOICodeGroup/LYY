@@ -1,5 +1,0 @@
-int d(int i) 
-{ 
-  return rand(); 
-}
-

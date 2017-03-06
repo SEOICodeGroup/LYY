@@ -1,8 +1,0 @@
-void DestroyHashTable(HashTable &H)
-{ 
-  free(H.elem); 
-  H.elem=NULL;
-  H.count=0;
-  H.sizeindex=0;
-}
-

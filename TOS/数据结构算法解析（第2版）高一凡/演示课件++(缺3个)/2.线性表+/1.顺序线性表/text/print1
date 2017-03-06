@@ -1,5 +1,0 @@
-void print1(ElemType &c)
-{ 
-  printf("%d ", c);
-}
-

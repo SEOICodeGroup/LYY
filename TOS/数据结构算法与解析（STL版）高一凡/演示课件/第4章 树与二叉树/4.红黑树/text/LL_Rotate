@@ -1,8 +1,0 @@
-void LL_Rotate(BiTNode<T>* &p)
-{
-  BiTNode<T> *lc=p->lchild;
-  p->lchild=lc->rchild;
-  lc->rchild=p;
-  p=lc;
-}
-

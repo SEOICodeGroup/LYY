@@ -1,6 +1,0 @@
-
-bool com(Rec a, Rec b)
-{
-  return a.key.size()<b.key.size();
-}
-

@@ -1,5 +1,0 @@
-void ClearString(SString S)
-{ 
-  S[0]=0; 
-}
-

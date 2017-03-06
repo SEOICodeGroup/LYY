@@ -1,5 +1,0 @@
-void dbl(ElemType &c)
-{ 
-  c*=2;
-}
-
