@@ -45,7 +45,7 @@ int main(){
                 else {
                     if(j - 1 == BeginB[StrB[j - 1]] && i - 1 < BeginA[StrB[j - 1]]) markpost++;
                     if(j - 1 == EndB[StrB[j - 1]] && i - 1 >= EndA[StrB[j - 1]]) markpost--;
-                    post = DP[i][j - 1][0] + markpost + DP[i][j - 1][1]; 
+                    post = DP[i][j - 1][0] + markpost + DP[i][j - 1][1];
                 }
                 if(pre < post) {
                     DP[i][j][0] = pre;
@@ -64,7 +64,6 @@ int main(){
             }
             printf("%d\n", DP[lenA][lenB][0]);
     }
-    system("pause");
     return 0;
 }
 /*
