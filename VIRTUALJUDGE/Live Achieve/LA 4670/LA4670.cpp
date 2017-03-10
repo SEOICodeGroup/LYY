@@ -6,7 +6,7 @@
 using namespace std;
 
 map<string, int> Getnod;
-int N, tot, root, que[150 * 70 + 10], head, tail, vis[155];
+int N, tot, root, que[150 * 70 + 10], head, tail, vis[150 * 70 + 10];
 char S[155][75], t[1000000 + 10];
 struct node {
     int nxt[26];
@@ -57,6 +57,10 @@ inline void query(char *s) {
             nod[tem].cnt ++;
             tem = nod[tem].fail;
         }
+        //for(int i = tail - 1; i >= 0; i --) {
+        //    int q = nod[que[i]].fail;
+        //    nod[que[i]].cnt += nod[q].cnt; 
+        //}
     }
     return;
 }
