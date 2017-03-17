@@ -78,9 +78,10 @@ void mul_x(ll o, ll l, ll r) {
 	}
 }
 int main() {
-	read(n), read(m), read(p);
+	read(n),read(p);
 	build(1, 1, n);
 	ll l, r;
+	read(m);
 	for (int i = 1; i <= m; i++) {
 		int q; scanf("%d", &q);
 		if (q == 2) {
