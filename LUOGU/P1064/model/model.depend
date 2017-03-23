@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1489903984 source:c:\users\mirac\desktop\new\model\main.cpp
+	<iostream>
+
+1490256104 source:f:\program\luogu\p1064\model\main.cpp
+	<cstdio>
+	<vector>
+	<cassert>
+	<cstring>
+	<algorithm>
+

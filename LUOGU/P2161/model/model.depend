@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1489903984 source:c:\users\mirac\desktop\new\model\main.cpp
+	<iostream>
+
+1490014715 source:f:\program\luogu\p2161\model\main.cpp
+	<cstdio>
+	<set>
+	<bitset>
+	<cassert>
+	<cstring>
+	<algorithm>
+
