@@ -1,9 +1,18 @@
-#include <iostream>
+#include <cstdio>
 using namespace std;
-struct test{
-    int output;
-}s;
+const int maxn=1005;
+int dep[maxn];
+int Getlca(int u,int v) {
+        for(int i=14;i>=0;i--) {
+                if(pre[u][i]!=pre[v][i]) {
+                        u=pre[u][i];
+                        v=pre[v][i];
+                }
+        }
+        return u;
+}
+
 int main() {
-    s.output()=1;
+
     return 0;
 }
